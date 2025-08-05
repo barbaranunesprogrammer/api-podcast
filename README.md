@@ -24,7 +24,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone `https://github.com/barbaranunesprogrammer/api-podcast.git`
+    git clone https://github.com/barbaranunesprogrammer/api-podcast.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
@@ -72,18 +72,18 @@ Retorna a lista completa de todos os episódios de podcast.
 - **Resposta de Sucesso (200 OK):**
   ```json
   [
-      {
-          "podcastName": "flow",
-          "episode": "CBUM - Flow #319",
-          "videoId": "pQSuQmUfS30",
-          "categories": ["saúde", "esporte", "bodybuilder"]
-      },
-      {
-          "podcastName": "venus",
-          "episode": "xuxa",
-          "videoId": "pQSuQmUfS30",
-          "categories": ["piada"]
-      }
+    {
+      "podcastName": "flow",
+      "episode": "FELIPE NETO - Flow #722",
+      "videoId": "flowfelipeneto722",
+      "categories": ["internet", "política", "entrevista"]
+    },
+    {
+      "podcastName": "podpah",
+      "episode": "NEYMAR EXCLUSIVO - Podpah #615",
+      "videoId": "podpahneymar615",
+      "categories": ["futebol", "esporte", "celebridade"]
+    }
   ]
   ```
 

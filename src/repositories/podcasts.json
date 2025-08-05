@@ -1,19 +1,56 @@
 [
   {
     "podcastName": "flow",
-    "episode": "CBUM - Flow #319",
-    "videoId": "pQSuQmUfS30",
-    "categories": ["saúde", "esporte", "bodybuilder"]
+    "episode": "FELIPE NETO - Flow #722",
+    "videoId": "flowfelipeneto722",
+    "categories": ["internet", "política", "entrevista"]
+  },
+  {
+    "podcastName": "podpah",
+    "episode": "NEYMAR EXCLUSIVO - Podpah #615",
+    "videoId": "podpahneymar615",
+    "categories": ["futebol", "esporte", "celebridade"]
+  },
+  {
+    "podcastName": "inteligencia",
+    "episode": "BILL GATES fala sobre o futuro da IA",
+    "videoId": "intelbillgatesia",
+    "categories": ["tecnologia", "negócios", "inteligência artificial"]
   },
   {
     "podcastName": "venus",
-    "episode": "xuxa",
-    "videoId": "pQSuQmUfS30",
-    "categories": ["piada"]
+    "episode": "ANITTA - Bastidores da carreira",
+    "videoId": "venusAnitta2025",
+    "categories": ["música", "famosos", "carreira"]
+  },
+  {
+    "podcastName": "ciência sem fim",
+    "episode": "MISSÃO ARTEMIS: ida à Lua com engenheiro da NASA",
+    "videoId": "cssfArtemisLua",
+    "categories": ["ciência", "astronomia", "exploração espacial"]
+  },
+  {
+    "podcastName": "mano a mano",
+    "episode": "MC Cabelinho fala sobre racismo e arte",
+    "videoId": "manoCabelinho25",
+    "categories": ["cultura", "sociedade", "música"]
+  },
+  {
+    "podcastName": "café da manhã",
+    "episode": "Reforma tributária: o que muda pra você?",
+    "videoId": "cafereforma2025",
+    "categories": ["notícias", "economia", "atualidades"]
   },
   {
     "podcastName": "flow",
-    "episode": "RUBENS BARRICHELLO - Flow #339",
-    "videoId": "4KDGTdiOV4I",
-    "categories": ["esporte", "corrida"]
-  }]
+    "episode": "LULA AO VIVO - Flow #740",
+    "videoId": "flowlula740",
+    "categories": ["política", "governo", "entrevista"]
+  },
+  {
+    "podcastName": "podpah",
+    "episode": "MARIO JÚNIOR - Como viralizei no TikTok",
+    "videoId": "podpahmariojr",
+    "categories": ["internet", "entretenimento", "viral"]
+  }
+]
